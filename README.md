@@ -133,5 +133,5 @@ and further develop the details, based on that feedback.   Some ideas might incl
    - Weather impact on Utilization (especially on low volume days, possibly remove those outliers)
    - Covid impact on Utilization from 2019 before, 2020 during and also 2021 to understand any possibly new needs that have surfaced.  
    - How many bikes are and the "end of life" and would need to be replaced.  Additional counts and charts could help with this capital planning work.  
-
+ 
 
