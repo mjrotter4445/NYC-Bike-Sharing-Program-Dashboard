@@ -15,7 +15,7 @@ requiring, little-to-no-coding, or quite complex, requiring some experiences to
 write custom code in.  Tableau is very flexible.  
 
 ### Purpose
-For this project we are creating a data visualizaiton for the New York City.   The 
+For this project we are creating a data visualization for the New York City.   The 
 idea is to analyze the data, see the operations of the business and become informed 
 about how well the bike sharing program really works.   The initial information is 
 that the program is so successful, we could expand it to other cities.  With a 
