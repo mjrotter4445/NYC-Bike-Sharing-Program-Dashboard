@@ -87,7 +87,7 @@ number of trips especially on Thursdays and Fridays, followed by trips on Monday
 ## 6. Bike Utilization
 This graph indicates, with dots, the accumulated trip utilization (by hours and minutes using the calculated field).  Small bubbles are approx. 200,000 time units, Medium bubbles are approx. 300,000 time units, Large bubbles are approx. 2,000,000 time units.  From this visualization and using the bike ids, maintenance and replacements can be planned.     
 <p align="center">
-  <img width="300" height=300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/6%20Bike%20Utilization.jpg">
+  <img width="300" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/6BikeUtilization.jpg">
 </p>
 
 ## 7. Top Starting Locations & Top Ending Locations 
