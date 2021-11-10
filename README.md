@@ -118,7 +118,7 @@ With this information, the best decisions can be made to support all
 needs and keep the busines growing.  
 
 **Gender**
-The charts reveal that there are very differenct behaviors for each gender. 
+The charts reveal that there are very different behaviors for each gender. 
 A deeper dive into the details could help formulate a marketing strategy and grow
 the business.  
 
