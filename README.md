@@ -46,7 +46,7 @@ This page contains the following information:
   -  Customer type: Customers and Subscribers 
 
 <p align="center">
-  <img width="400" height=400" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/0%20Basic%20Info%20Dashboard.jpg">
+  <img width="400" height=400" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/0BasicInfo%20Dashboard.jpg">
 </p>
 
 ## 1. Checkout times for Users
