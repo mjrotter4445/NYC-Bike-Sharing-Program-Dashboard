@@ -62,7 +62,7 @@ The color indicates the number of trips with orange representing male, blue for 
 the unknown genders.     The highlite of the chart is that males checkout bikes at a much higher fequency than 
 female or unknown gender, especially between 1 hour to 1-17 hour durations on long trips.     
  <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/2a%20Checkout%20Times%20by%20Gender.jpg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/2aCheckoutTimesbyGender.jpg">
 </p>
 
 ## 3. Trips by Weekday per Hour with Length of Trip 
