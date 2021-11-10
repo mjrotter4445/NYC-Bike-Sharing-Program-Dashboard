@@ -105,7 +105,7 @@ Decisions made from the data might include these categories:
 
 **Bike Maintenance** plays a big role in bike share business. Heat maps 
 are a great visualization for large amounts of data and provide us clear 
-story about the data.    The charts suggest taht the least busy times 
+story about the data.    The charts suggest that the least busy times 
 are between 11pm and 5am.   These would be the best times to stagger 
 the maintenance work throughout the fleet of bikes.  
 
