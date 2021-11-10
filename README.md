@@ -81,7 +81,7 @@ This graph shows the number of trips per hour and per weekday that bikes were ch
 This graph shows the number of trips per hour and per weekday that bikes were checked out, by user type (customers and subsribers) and by gender.   The weekdays and user type are on the y-axis and the gender on x-axis.   For subscribers, males has the highest
 number of trips especially on Thursdays and Fridays, followed by trips on Monday and Tuesdays.    
 <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/6BikeUtilization.jpgg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/5tripsbyGenderbyWeekday.jpg">
 </p>
 
 ## 6. Bike Utilization
