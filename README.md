@@ -93,7 +93,7 @@ This graph indicates, with dots, the accumulated trip utilization (by hours and 
 ## 7. Top Starting Locations & Top Ending Locations 
 These next two graphs show the most popular starting and ending locations.   The larger bubbles represent the larger numbers.  
 <p align="center">
-  <img width="800" height=200" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/7%20top%20starting%20and%20stops.jpg">
+  <img width="800" height=200" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/7topstartingandstops.jpg">
 </p>
 
 ## Summary
