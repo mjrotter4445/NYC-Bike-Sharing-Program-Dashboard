@@ -68,7 +68,7 @@ female or unknown gender, especially between 1 hour to 1-17 hour durations on lo
 ## 3. Trips by Weekday per Hour with Length of Trip 
 This graph shows number of checked out bikes on the y-axis and trip duration on the x-axis.   
 <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/2b%20Trips%20by%20weekday%20per%20hr%20with%20length.jpg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/2btripsbyweekdayperhrwithlength.jpg">
 </p>
 
 ## 4. Trips by Gender by Weekday and by Hour
