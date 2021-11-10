@@ -53,7 +53,7 @@ This page contains the following information:
 This graph has the number of checkout bikes (number of trips) on the y-axis and trip duration on the x-axis.  
 X-axis is divided into hours and minutes for more analysis.  
 <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/1%20Checkout%20Times%20by%20User%20Type.jpg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/1%20Checkout%20Times%20by%20User%20Type.jpg">
 </p>
 
 ## 2. Checkout times by Gender
