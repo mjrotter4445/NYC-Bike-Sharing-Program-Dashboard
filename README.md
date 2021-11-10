@@ -74,7 +74,7 @@ This graph shows number of checked out bikes on the y-axis and trip duration on 
 ## 4. Trips by Gender by Weekday and by Hour
 This graph shows the number of trips per hour and per weekday that bikes were checked out.  The hours are on the y-axis and weekdays on the x-axis. The colors speak to the volume.   We can see that the busiest times are in the moring hours on weekdays from 6am to 9am and in evening hours on weekdays between 5pm and 7pm.   Also Saturdays and Sundays are business in the middle of the day between 10am and 6pm. Again, males are the most frequent users.   
 <p align="center">
-  <img width="400" height=300" src="https://github.com/mjrotter4445/read_me_working_file/blob/main/Images/4%20Trips%20by%20Gender%20by%20Weekday%20by%20hour.jpg">
+  <img width="400" height=300" src="https://github.com/mjrotter4445/NYC-Bike-Sharing-Program-Dashboard/blob/main/images/4TripsbyGenderbyWeekdaybyhour.jpg">
 </p>
 
 ## 5. Trips by Gender by Weekday
