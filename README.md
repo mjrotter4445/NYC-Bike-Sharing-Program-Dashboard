@@ -26,7 +26,6 @@ could work in other cities as well.
 
 [NYC Citibike Story Board](https://public.tableau.com/app/profile/jk.rotter/viz/NYCBikeStoryBoard/NYCCitiBikeStory)
 
-
 ## Resources
 This page contains the following information: 
 -  Data Source:
